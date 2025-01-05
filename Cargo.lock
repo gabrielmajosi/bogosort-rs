@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "bogosort-rs"
+name = "bogosorter"
 version = "0.1.0"
 dependencies = [
  "rand",
